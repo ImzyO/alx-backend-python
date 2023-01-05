@@ -2,7 +2,6 @@
 """
 a module 7-to_kv.py with Complex types - string and int/float to tuple
 """
-# python3 -c 'print(__import__("7-to_kv.py").__doc__)'
 from typing import Tuple, Union
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
@@ -12,5 +11,4 @@ def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
     the string k. The second element is the square
     of the int/float v and should be annotated as a float.
     """
-    # python3 -c 'print(__import__("7-to_kv.py").my_function.__doc__)'
     return k, v ** 2

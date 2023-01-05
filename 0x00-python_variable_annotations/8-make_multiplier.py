@@ -1,6 +1,5 @@
 #!/usr/bin/# python3
 """a module 8-make_multiplier.py with Complex types - functions"""
-# python3 -c 'print(__import__("8-make_multiplier.py").__doc__)'
 from typing import Callable
 
 def make_multiplier(multiplier: float) -> Callable[[float], float]:
