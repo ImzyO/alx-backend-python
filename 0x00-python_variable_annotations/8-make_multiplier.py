@@ -1,4 +1,4 @@
-#!/usr/bin/# python3
+#!/usr/bin/env python3
 """a module 8-make_multiplier.py with Complex types - functions"""
 from typing import Callable
 

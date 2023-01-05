@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 a module 5-sum_list.py, with Complex types - list of floats"""
 from typing import List

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python3
 """a module 1-concat.py, with basic annotations for concatneations"""
 
 def concat(str1: str, str2: str) -> str:

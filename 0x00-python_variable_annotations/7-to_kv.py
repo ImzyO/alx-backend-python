@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 a module 7-to_kv.py with Complex types - string and int/float to tuple
 """

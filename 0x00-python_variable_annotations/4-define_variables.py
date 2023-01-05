@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 a module 4-define_variables.py defining and annotating
 the following variables with the specified values:

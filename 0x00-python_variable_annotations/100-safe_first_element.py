@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """a module 101-safely_get_value.py, with More involved type annotations"""
 from typing import Any, Union, Sequence
 

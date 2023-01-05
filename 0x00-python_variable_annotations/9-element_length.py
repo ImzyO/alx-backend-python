@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """a module 9-element_length.py, with let's duck type an iterable object"""
 from typing import List, Tuple, Iterable, Sequence
 
