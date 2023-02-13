@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 import asyncio
 import random
 from typing import List
-
+"""async comprehensions"""
 
 async_generator = __import__('0-async_generator').async_generator
 
