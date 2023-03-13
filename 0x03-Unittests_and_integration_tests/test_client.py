@@ -101,3 +101,11 @@ class TestIntegrationGithubOrgClient(unittest.TestCase):
     def tearDownClass(cls):
         """tear down after each class"""
         cls.get_patcher.stop()
+
+    def test_public_repos_with_license(self):
+        """
+        Test public_repos method with license
+        """
+        self.assertEqual(
+            self.client.public_repos(license="apache-2.0"),
+            self.apache2_repos)
