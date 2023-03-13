@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-
 """
 this module contains unittests for client
 """
-
 import unittest
 from unittest.mock import PropertyMock, patch
 from client import GithubOrgClient
