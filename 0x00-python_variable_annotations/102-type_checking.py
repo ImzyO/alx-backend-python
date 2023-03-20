@@ -4,6 +4,7 @@ a module 102-type_checking.py, with Type Checking
 """
 from typing import Tuple, List
 
+
 def zoom_array(lst: Tuple, factor: int = 2) -> List:
     """
     Use mypy to validate the following piece of
@@ -15,6 +16,7 @@ def zoom_array(lst: Tuple, factor: int = 2) -> List:
             ]
 
     return zoomed_in
+
 
 array: Tuple = (12, 72, 91)
 

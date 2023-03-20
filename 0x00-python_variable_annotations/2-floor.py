@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-a module 2-floor.py, with basic annotations 
+a module 2-floor.py, with basic annotations
 floor from the math in built module
 """
 import math
+
 
 def floor(n: float) -> int:
     """
